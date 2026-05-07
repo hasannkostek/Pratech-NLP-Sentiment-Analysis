@@ -63,3 +63,6 @@ Bu depoyu klonlayın: git clone https://github.com/hasankostek/Pratech-NLP-Senti
 Gerekli kütüphaneleri kurun: pip install -r requirements.txt (Eğer oluşturduysan)
 
 nlp_odev.ipynb dosyasını Jupyter Notebook veya VS Code üzerinden çalıştırın.
+
+
+Yazar: Hasan Köstek
