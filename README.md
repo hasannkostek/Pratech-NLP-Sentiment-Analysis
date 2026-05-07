@@ -1,5 +1,6 @@
 
 🛍️ E-Ticaret Ürün Yorumları Duygu Analizi (NLP)
+
 Bu proje, bir e-ticaret platformundaki kullanıcı yorumlarını analiz ederek metinlerden duygu çıkarımı (Sentiment Analysis) yapmak ve müşteri şikayetlerindeki kritik odak noktalarını tespit etmek amacıyla geliştirilmiştir. Pratech Yetenek Programı teknik değerlendirme aşaması kapsamında hazırlanmıştır.
 
 🚀 Proje Özeti
